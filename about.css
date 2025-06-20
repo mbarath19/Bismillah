@@ -1,0 +1,36 @@
+.block-18 {
+  margin-bottom: 20px;
+}
+
+.text {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Center the icon container */
+.icon {
+  display: inline-flex; /* Use inline-flex to align the image */
+  justify-content: center; /* Center image horizontally */
+  align-items: center; /* Center image vertically */
+  width: 80px; /* Set a fixed width for alignment */
+  height: 80px; /* Set a fixed height for alignment */
+  padding: 10px; /* Optional: padding inside the icon container */
+  margin-bottom: 10px; /* Space between icon and number */
+}
+
+.icon-image {
+  width: 50px; /* Size of the image */
+  height: 50px;
+}
+
+.number {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+span {
+  display: block;
+  font-size: 16px;
+  color: white;
+}
